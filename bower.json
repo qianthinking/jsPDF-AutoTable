@@ -4,7 +4,7 @@
   "description": "Generate PDF tables or lists with javascript and jsPDF",
   "main": "dist/jspdf.plugin.autotable.js",
   "dependencies": {
-    "jspdf": "git://github.com/dusanstanojeviccs/jsPDF"
+    "jspdf": "git://github.com/qianthinking/jsPDF"
   },
   "moduleType": [
     "globals"
